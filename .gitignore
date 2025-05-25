@@ -1,0 +1,9 @@
+*.pyc
+pycache /
+venv/
+.env/
+.DS_Store
+Thumbs.db
+mlruns/
+logs/
+*.log
